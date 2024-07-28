@@ -1,0 +1,79 @@
+
+.hero-img {
+ 
+    width: 100%;
+    
+  }
+  .hero-section
+  {
+    height: 200px;
+    overflow: hidden;
+  }
+  .profile-img
+  {
+    border-radius:75px;
+    height:150px;
+    margin-left:50px;
+    margin-top:-80px;
+    border:5px solid gray;
+  }
+  .photo
+  {
+    display:flex;
+    justify-content: left;
+    gap:25px;
+    margin:auto;
+   
+   
+  }
+  .name-sections .name
+  {
+    font-size:30px;
+  }
+  .name-sections .designation
+  {
+    font-size:15px;
+  }
+  .mid-section
+  {
+    display:flex;
+    gap:10px;
+  }
+  
+  .tab-link-list
+  {
+    list-style-type:none;
+    width:100%;
+    padding-left:0px;
+  }
+  .tab-link-list li.selected 
+  {
+    background-color:#FFDFD6 
+  }
+  
+  .tab-link-list a
+  {
+    text-decoration:none;
+    color:black;
+  }
+  .tab-link-list li
+  {
+    border:2px solid lightgray;
+    padding:10px;
+  }
+  .main-section dt
+  {
+    font-weight:bold;
+    
+  }
+  .about-me-row
+  {
+    display:flex;
+  }
+
+
+ 
+
+ 
+  
+  
